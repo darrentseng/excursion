@@ -1,1 +1,54 @@
+* {
+    font-family: verdana;
+}
+
+html {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    justify-content: center;
+}
+
+h1, h2, h3 {
+    padding-bottom: 10px;
+    font-family: verdana;
+}
+
+h1, h2 {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.description {
+    font-size: 21px;
+    color: grey;
+}
+
+.footer-note {
+    text-align: right;
+    color: gray;
+}
+
+.phone-icon {
+    padding-top: 30px;
+}
+
+
+
+
+
 
